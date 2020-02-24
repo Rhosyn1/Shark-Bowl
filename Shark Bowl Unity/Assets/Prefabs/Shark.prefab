@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2532421286043146545}
   - component: {fileID: 2532421286043146544}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Shark
   m_TagString: Shark
   m_Icon: {fileID: 0}
@@ -26,7 +26,7 @@ Transform:
   m_GameObject: {fileID: 2532421286043146547}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.6750529, y: 0.12714428, z: -0.012697324}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 20, y: 20, z: 20}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0

@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1603527654109642132}
   - component: {fileID: 4373008060239464487}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Goldfish
   m_TagString: Goldfish
   m_Icon: {fileID: 0}
