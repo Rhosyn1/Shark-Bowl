@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-Shark Bowl Unity/[Ll]ibrary/
-Shark Bowl Unity/[Tt]emp/
-Shark Bowl Unity/[Oo]bj/
-Shark Bowl Unity/[Bb]uild/
-Shark Bowl Unity/[Bb]uilds/
-Shark Bowl Unity/[Ll]ogs/
-Shark Bowl Unity/[Mm]emoryCaptures/
+SharkBowlUnity/[Ll]ibrary/
+SharkBowlUnity/[Tt]emp/
+SharkBowlUnity/[Oo]bj/
+SharkBowlUnity/[Bb]uild/
+SharkBowlUnity/[Bb]uilds/
+SharkBowlUnity/[Ll]ogs/
+SharkBowlUnity/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
