@@ -146,7 +146,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 210.83307, y: -89.1436}
+  m_AnchoredPosition: {x: 301.9, y: -144.1}
   m_SizeDelta: {x: 198.5, y: 43.600006}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &433685668
@@ -389,7 +389,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 04a2bf6de3522a64cbf9768c08706423, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  slider: {fileID: 0}
   sliderImage: {fileID: 1468859905}
+--- !u!1 &1085275820 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2532421286043146547, guid: e6db5adbdd7c9a34ab35568f79de4022,
+    type: 3}
+  m_PrefabInstance: {fileID: 2532421286707837142}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1085275823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1085275820}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 397d485031c671f4684a5998dfb5d1e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1121597352
 GameObject:
   m_ObjectHideFlags: 0
@@ -424,7 +443,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 235, y: -140}
+  m_AnchoredPosition: {x: 326.06696, y: -194.9564}
   m_SizeDelta: {x: 2, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1121597354
@@ -684,7 +703,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 202, y: -139}
+  m_AnchoredPosition: {x: 293.06696, y: -193.9564}
   m_SizeDelta: {x: 160, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1505978931
@@ -930,12 +949,12 @@ PrefabInstance:
     - target: {fileID: 2532421286043146545, guid: e6db5adbdd7c9a34ab35568f79de4022,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.28
+      value: 5.51
       objectReference: {fileID: 0}
     - target: {fileID: 2532421286043146545, guid: e6db5adbdd7c9a34ab35568f79de4022,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.79
       objectReference: {fileID: 0}
     - target: {fileID: 2532421286043146545, guid: e6db5adbdd7c9a34ab35568f79de4022,
         type: 3}
