@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class DestroyShark : MonoBehaviour
 {
@@ -17,6 +18,7 @@ public class DestroyShark : MonoBehaviour
         if (uiBehaviour2.slider.value == 1f)
         {
             Destroy(gameObject);
+            SceneManager.LoadScene(1);
         }
     }
  
